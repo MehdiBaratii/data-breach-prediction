@@ -10,7 +10,7 @@ To replicate the material of the project, the user needs to have R program insta
  
  
 There are two folders in this project repository. The folder named “descriptive” is aimed to replicate all the visualizations in exploring the data and bias check sections. The other folder named “model” is used to replicate all the tables and figures in initial and subsequent model sections.
-Please download the entire project and before running the R files make sure to set the working directory to the folder the project folder is located.
+Please download the entire project and before running the R files make sure to set the working directory to the folder the project folder is located. Inside each folder you will find an R file which includes all the coding you need to replicate the figures and tables of that folder.
 
 
 ## Conclusion
