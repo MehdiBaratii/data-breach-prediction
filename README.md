@@ -1,8 +1,9 @@
 ## Project Title: Predicting the Occurrence of a Data Breach
-## Project Author: Mehdi Barati
+## Project Author: **Mehdi Barati**
 
 ## Overview
-This repository will help the viewers to replicate the predictive models and visualizations of the “Predicting the Occurrence of a Data Breach” project. The project aims to build predictive models for the probability of the occurrence of a data breach and the size of a data breach based on the previous incidents of data breaches and their types. The dataset used for this purpose is downloaded from Privacy Rights Clearinghouse website at https://privacyrights.org/sites/default/files/2020-01/PRC%20Data%20Breach%20Chronology%20-%201.13.20.csv. 
+This repository will help the viewers to replicate the predictive models and visualizations of the “Predicting the Occurrence of a Data Breach” project. The project aims to build predictive models for the probability of the occurrence of a data breach and the size of a data breach based on the previous incidents of data breaches and their types. The dataset used for this purpose is downloaded from Privacy Rights Clearinghouse website at 
+[click here](*https://privacyrights.org/sites/default/files/2020-01/PRC%20Data%20Breach%20Chronology%20-%201.13.20.csv*). 
 
 The raw dataset file is also included inside the folders. We used R programming language because it’s open source and best fitted for our purposes.
 To replicate the material of the project, the user needs to have R program installed on their device and also have installed the following packages: 
